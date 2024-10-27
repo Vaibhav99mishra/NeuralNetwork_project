@@ -1,6 +1,3 @@
-Here’s a structured summary for your GitHub README file based on the provided project information:
-
----
 
 # Enhancing Plant Stress Detection through Denoising of Audio Signals and Advanced Classification Models
 
